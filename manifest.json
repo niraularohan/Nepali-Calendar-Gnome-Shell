@@ -1,0 +1,10 @@
+{
+    "name": "Nepali Calendar",
+    "description": "A GNOME extension for displaying Nepali calendar",
+    "version": "1.0",
+    "shell-version": ["45"],
+    "uuid": "nepalicalendar@rohanniraula.com.np",
+    "url": "https://github.com/rohanniraula/nepali-calendar",
+    "author": "Rohan Niraula",
+    "license": "GPL-3.0"
+}
